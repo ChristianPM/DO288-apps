@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "ChristianPM-books-dev"
-        STAGE_PROJECT = "ChristianPM-books-stage"
+        DEV_PROJECT = "christianpm-books-dev"
+        STAGE_PROJECT = "christianpm-books-stage"
         APP_GIT_URL = "https://github.com/ChristianPM/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.na45.prod.nextcle.com/repository/nodejs"
 
